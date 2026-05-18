@@ -140,7 +140,7 @@ python redbook_spider_full_public.py
 假设输入：
 
 ```text
-关键词：苏蕊披萨 披萨店
+关键词：披萨 披萨店
 每条笔记评论数：3
 模式：2
 视频笔记数量：5
@@ -149,8 +149,7 @@ python redbook_spider_full_public.py
 
 程序会依次搜索：
 
-- 苏蕊披萨
-- 披萨店
+
 
 并在综合结果页分别采集：
 
